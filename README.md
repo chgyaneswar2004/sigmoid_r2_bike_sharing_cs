@@ -1,4 +1,8 @@
-# Bike Sharing Demand Analysis
+# Sigmoid Case Study Round 2 – Bike-Sharing Demand: More Bikes or Better Allocation? 
+
+**Live app:** https://chgyaneswar2004-sigmoid-r2-bike-sharing-cs-app-vq96rc.streamlit.app/ (Streamlit Community Cloud; if the link asks for sign-in, request access from the author)
+
+## Bike Sharing Demand Analysis
 
 A data science project that investigates whether a bike-sharing operator should expand its fleet or improve the allocation of its existing bikes. It combines exploratory data analysis, hourly demand forecasting, fleet-capacity scenarios, and a small natural-language assistant for operational questions.
 
